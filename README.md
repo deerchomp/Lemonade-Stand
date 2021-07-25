@@ -1,4 +1,4 @@
 ## Lemonade Stand Example in Solidity
-
 Udacity Blockchain Nanodegree
-# Lemonade-Stand
+
+Demonstrating the usefulness of smart contracts to drive a supply chain.
